@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "tripscribe93582f14": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1v2j3wdbpa9ry",
+          "type": "manual"
+        }
       }
     }
   }
