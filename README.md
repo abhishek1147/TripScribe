@@ -1,5 +1,5 @@
 # TripScribe
-A travel logging(with Iamges) android mobile application.
+A travel logging(with Images) android mobile application.
 
 This Android application uses **AWS Amplify**, a set of tools and serverless services in the cloud.
 
